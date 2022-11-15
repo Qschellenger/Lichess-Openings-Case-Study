@@ -1,2 +1,2 @@
 # Lichess-Openings-Case-Study
-For my Google Data Analytics Case study I chose to analyze popular Chess openings on Lichess.org.
+Case Study for Google Data Analytics course offered through Coursera.org. I chose to analyze popular Chess openings on Lichess.org for 1,500 elo rated players and below.
